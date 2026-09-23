@@ -1,4 +1,4 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=22C55E&width=450&lines=Helloy+world!)](https://git.io/typing-svg)
 
 <!--
 **Zaprescheno/Zaprescheno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
